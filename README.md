@@ -24,4 +24,14 @@ I enjoy playing video games
 - My keyboard is dead (basicially button mashing)
 - Understanding whats even going on my screen (addicted to fast-pace games)
 
+## 📜 Licenses I Use
+- MIT License (most of my projects)
+- Apache 2.0 (for larger tools)
+- Creative Commons (for documentation or assets)
+
+## More About Me
+- I have some other projects i have on my google drive i might upload on here, you never know but my discord server has my googledrive so get it before i upload it maybe?
+- Addicted to creating
+- A bit of 3D modelling in [Roblox Studio](https://create.roblox.com/)
+
 # Enjoy the projects i make for you!
