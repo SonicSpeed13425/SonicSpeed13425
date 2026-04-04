@@ -12,9 +12,10 @@ I enjoy playing video games
 - Create a full electron app
 - Create more github projects (goal is around 50 projects atleast)
 - Learn a bit of cybersecurity
+- Learn more python (started learning python 04/04/2026)
 
 ## 🛠️ Skills
-- 💻 Languages: Javascript, Batch (.cmd/.bat), Powershell (.ps1), AutoHotkey
+- 💻 Languages: Javascript, Batch (.cmd/.bat), Powershell (.ps1), AutoHotkey, Python (.py, still a beginner)
 - 🌐 Web: HTML
 - 🧰 Tools: Node.js, GitHub, Notepad (yes notepad)
 - 🛡️ Cybersecurity basics: OSINT, Google search operators, understanding robots.txt
