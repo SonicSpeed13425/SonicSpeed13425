@@ -1,4 +1,4 @@
-# Hello!
+# 👋 "Heyo!"
 I am **Classic!** im a pretty young programmer learning how to program, programming can be tough for me so if one of my projects have some errors its not entirely my fault.
 I enjoy playing video games
 
