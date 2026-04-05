@@ -18,7 +18,7 @@ I enjoy playing video games
 ## 🛠️ Skills
 - 💻 Languages: Javascript, Batch (.cmd/.bat), Powershell (.ps1), AutoHotkey, Python (.py, still a beginner), Lua (Returning to Lua, Basics down.)
 - 🌐 Web: HTML
-- 🧰 Tools: Node.js, GitHub, Notepad (yes notepad)
+- 🧰 Tools: Node.js, GitHub, Notepad (yes notepad), AutoHotkey
 - 🛡️ Cybersecurity basics: OSINT, Google search operators, understanding robots.txt
 
 ## 💻 Languages im mostly trying to learn
