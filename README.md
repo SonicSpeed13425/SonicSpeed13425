@@ -18,7 +18,7 @@ I enjoy playing video games
 ## 🛠️ Skills
 - 💻 Languages: Javascript, Batch (.cmd/.bat), Powershell (.ps1), AutoHotkey, Python (.py, still a beginner), Lua (Returning to Lua, Advanced Things down.)
 - 🌐 Web: HTML
-- 🧰 Tools: Node.js, GitHub, Notepad (yes notepad), AutoHotkey, Github
+- 🧰 Tools: Node.js, GitHub, Notepad (yes notepad), AutoHotkey
 - 🛡️ Cybersecurity basics: OSINT, Google search operators, understanding robots.txt
 
 ## 💻 Languages im mostly trying to learn
@@ -30,6 +30,7 @@ I enjoy playing video games
 - Can do a few techs/program some .ahk files that may help a bit with gameplay
 - My keyboard is dead (basicially button mashing)
 - Understanding whats even going on my screen (addicted to fast-pace games)
+- Thy end is now (Ultrakill addict)
 
 ## 📜 Licenses I Use
 - MIT License (most of my projects)
