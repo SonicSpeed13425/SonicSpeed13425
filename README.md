@@ -16,7 +16,7 @@ I enjoy playing video games
 - Learn complex Lua code (started learning again on 04/04/2026)
 
 ## 🛠️ Skills
-- 💻 Languages: Javascript, Batch (.cmd/.bat), Powershell (.ps1), AutoHotkey, Python (.py, still a beginner), Lua (Returning to Lua, Advanced Things down.)
+- 💻 Languages: Javascript, Batch (.cmd/.bat), Powershell (.ps1), AutoHotkey, Python (.py, still a beginner), Lua (Returning to Lua, Complex Functions down.)
 - 🌐 Web: HTML
 - 🧰 Tools: Node.js, GitHub, Notepad (yes notepad), AutoHotkey
 - 🛡️ Cybersecurity basics: OSINT, Google search operators, understanding robots.txt
