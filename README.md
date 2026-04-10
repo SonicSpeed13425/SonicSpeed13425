@@ -44,6 +44,6 @@ I enjoy playing video games
 
 ## Using my about me as a template!
 - You can fully use my about me as a template for your about me and create a even better about me!
-- Discord uses some of the same markdown features like "``" doing this `amogus`
+- Discord uses some of the same markdown features like "``" doing this: `amogus`
 
 # Enjoy the projects i make for you!
