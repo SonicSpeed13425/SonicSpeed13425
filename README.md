@@ -42,6 +42,9 @@ I enjoy playing video games
 - Addicted to creating
 - A bit of 3D modelling in [Roblox Studio](https://create.roblox.com/)
 
+## Youtube and other socials
+- [Youtube](https://www.youtube.com/@Classic-operagxuser)
+
 ## Using my about me as a template!
 - You can fully use my about me as a template for your about me and create a even better about me!
 - Discord uses some of the same markdown features like "``" doing this: `amogus`
