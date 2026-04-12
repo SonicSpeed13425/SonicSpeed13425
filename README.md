@@ -14,6 +14,7 @@ I enjoy playing video games
 - Learn a bit of cybersecurity
 - Learn more python (started learning python 04/04/2026)
 - Learn complex Lua code (started learning again on 04/04/2026)
+- Create a roblox game
 
 ## 🛠️ Skills
 - 💻 Languages: Javascript, Batch (.cmd/.bat), Powershell (.ps1), AutoHotkey, Python (.py, still a beginner), Lua (Returning to Lua, Slightly Complex Lua Code down.)
