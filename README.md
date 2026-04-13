@@ -7,6 +7,11 @@ I enjoy playing video games
 - Learning more JavaScript
 - Building more open-source tools
 
+## 💻 Current projects
+- MegaTool, More info in the [goofy classicos discord server](https://discord.gg/bj2ch4kFDP)
+- Discord bot template, Help people create discord bots
+- ClassicGUI, will be discontinued  after MegaTool's release.
+
 ## 🎯 Some goals for 2026
 - Create a discord bot creator alot of people can understand and can help allow more discord bots
 - Create a full electron app
