@@ -8,7 +8,7 @@ I enjoy playing video games
 - Building more open-source tools
 
 ## 💻 Current projects
-- MegaTool, More info in the [goofy classicos discord server](https://discord.gg/bj2ch4kFDP)
+- MegaTool, More info in the [goofy classicos discord server](https://discord.gg/bj2ch4kFDP), progress is great so far.
 - Discord bot template, Help people create discord bots
 - ClassicGUI, will be discontinued  after MegaTool's release.
 
