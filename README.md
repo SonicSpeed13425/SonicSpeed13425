@@ -8,9 +8,7 @@ I enjoy playing video games
 - Building more open-source tools
 
 ## 💻 Current projects
-- MegaTool, More info in the [goofy classicos discord server](https://discord.gg/bj2ch4kFDP), progress is great so far.
-- Discord bot template, Help people create discord bots
-- ClassicGUI, will be discontinued  after MegaTool's release.
+- Nothing Currently.
 
 ## 🎯 Some goals for 2026
 - Create a discord bot creator alot of people can understand and can help allow more discord bots
@@ -48,8 +46,9 @@ I enjoy playing video games
 - Addicted to creating
 - A bit of 3D modelling in [Roblox Studio](https://create.roblox.com/)
 
-## Youtube and other socials
-- [Youtube](https://www.youtube.com/@Classic-operagxuser)
+## Youtube and my profile card!
+- [Youtube](https://www.youtube.com/@ItsMeClassicz)
+- [Profile Card](https://guns.lol/itsmeclassicz)
 
 ## Using my about me as a template!
 - You can fully use my about me as a template for your about me and create a even better about me!
